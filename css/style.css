@@ -38,6 +38,8 @@ header > nav > ul {
 p {
   overflow: auto;
   height: 313px;
+  font-size: .6rem;
+
 }
 
 button {
@@ -96,7 +98,6 @@ section > img {
   margin-right: 30px;
 }
 
-
 footer {
   margin-top: 30px;
   width: 100%;
@@ -105,10 +106,11 @@ footer {
 }
 
 button {
+  margin-top: 15px;
   background-color: black;
   color: white;
   border-radius: 0;
   height: 50px;
   width: 200px;
-  font-size: .6rem;
+  font-size: 0.6rem;
 }
