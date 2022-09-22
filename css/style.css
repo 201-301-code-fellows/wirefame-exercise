@@ -37,6 +37,7 @@ header > nav > ul {
 
 p {
   overflow: auto;
+  height: 313px;
 }
 
 button {
@@ -95,12 +96,19 @@ section > img {
   margin-right: 30px;
 }
 
-section > p {
-  overflow: scroll;
-  height: 400px;
-}
 
 footer {
+  margin-top: 30px;
   width: 100%;
   background-color: #444;
+  height: 200px;
+}
+
+button {
+  background-color: black;
+  color: white;
+  border-radius: 0;
+  height: 50px;
+  width: 200px;
+  font-size: .6rem;
 }
